@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 openpyxl = "*"
 pillow = "*"
+pyautogui = "*"
+opencv-python = "*"
+pyperclip = "*"
 
 [dev-packages]
 
